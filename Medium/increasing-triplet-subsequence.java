@@ -1,3 +1,4 @@
+package Medium;
 //  https://leetcode.com/problems/increasing-triplet-subsequence/
 
 class Solution {
