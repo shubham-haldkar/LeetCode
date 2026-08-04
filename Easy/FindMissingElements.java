@@ -1,5 +1,9 @@
 package Easy;
 
+import java.util.ArrayList;
+import java.util.List;
+
+
 public class FindMissingElements{
 
     public static void main(String[] args) {
